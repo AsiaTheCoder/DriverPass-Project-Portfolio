@@ -15,8 +15,7 @@ The DriverPass project was a system designed for a client who wanted a solution 
 > If I could revise one part of my work, it would be the class diagram in the system design document. Specifically, I would focus on refining the associations and multiplicities to ensure every relationship is represented accurately. 
 I’d also make improvements in the method names to better represent their purposes and improve overall readability.
 
-### How did you interpret the user’s needs and implement them into your system design?
-Why is it so important to consider the user’s needs when designing?
+### How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
 > Interpreting the user's needs involved paying close attention to the business requirements and referring back to them while creating each UML diagram. This helped me create a clear connection between the requirements and the design elements. Understanding user needs is important because it ensures that the final system aligns with the client’s expectations and effectively solves their problems.
 
