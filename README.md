@@ -2,9 +2,7 @@
 
 **DriverPass Project Summary**
 
-**Who was the client?**  
-
-**What type of system did they want you to design?**
+# Who was the client? What type of system did they want you to design?
 
 The DriverPass project was a system designed for a client who wanted a solution to help students schedule driving lessons and track their progress. My goal was to develop a system that catered to both the scheduling and feedback management needs of students, instructors, and administrators.
 
