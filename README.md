@@ -18,8 +18,8 @@ I’d also make improvements in the method names to better represent their purpo
 ### How did you interpret the user’s needs and implement them into your system design?
 Why is it so important to consider the user’s needs when designing?
 
-Interpreting the user's needs involved paying close attention to the business requirements and referring back to them while creating each UML diagram. This helped me create a clear connection between the requirements and the design elements. Understanding user needs is important because it ensures that the final system aligns with the client’s expectations and effectively solves their problems.
+> Interpreting the user's needs involved paying close attention to the business requirements and referring back to them while creating each UML diagram. This helped me create a clear connection between the requirements and the design elements. Understanding user needs is important because it ensures that the final system aligns with the client’s expectations and effectively solves their problems.
 
-**Approach to Designing Software**
+### What was yoru approach to designing software?
 
-My approach to software design involves creating a clear understanding of the requirements, then translating those requirements into visual representations (like UML diagrams) to establish the system’s structure and interactions. Moving forward, I plan to continue using an iterative design process with regular client feedback, as well as prioritizing simplicity and clarity in documentation.
+> My approach to software design involves creating a clear understanding of the requirements, then translating those requirements into visual representations (like UML diagrams) to establish the system’s structure and interactions. Moving forward, I plan to continue using an iterative design process with regular client feedback, as well as prioritizing simplicity and clarity in documentation.
